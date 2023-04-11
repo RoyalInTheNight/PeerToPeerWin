@@ -1,4 +1,4 @@
 # PeerToPeerWin
-in develop
+old concept
 
 P.S. it old test proto
